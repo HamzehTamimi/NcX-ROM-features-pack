@@ -6,7 +6,7 @@ This module is made for device supported by NcX ROM:
  - A52 4G
  - A52s 5G
  - M52 5G
- - A71
+ - A71 4G
 
 Features included in the module:
 - Bixby Touch (CHC firmware feature)
