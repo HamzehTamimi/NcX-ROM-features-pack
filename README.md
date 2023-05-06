@@ -16,6 +16,9 @@ Features included in the module:
 - Content suggestion service (Secure Folder feature from INS firmware)
 - Some camera feature (more to come)
 - Samsung My Files shortcut in settings
+- China Smart Manager
+- Air Command (use the icon in app drawer to launch then you use the floating icon)
+- WiFi security detection
 
 There are also many small features added that I don't remember too (may add them in the feature list later)... 
 
