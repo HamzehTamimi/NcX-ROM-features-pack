@@ -1,4 +1,4 @@
-# NcX-ROM-features-pack
+# NcX ROM features pack
 
 **This is a Magisk module that adds so many new features for the NcX ROM (S21 FE port)!**
 
