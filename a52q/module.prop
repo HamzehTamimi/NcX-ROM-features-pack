@@ -1,7 +1,7 @@
-id=Module_name_without_spaces
-name=Module name (can be with spaces)
-version=v1
-versionCode=1
-author=@YourName
-description=.....
+id=NcX_ROM_features_pack_A52_4G
+name=NcX_ROM features pack A52 4G
+version=v1.0
+versionCode=1.0
+author=@Droid365(HamzehTamimi)
+description=A is a Magisk module that adds so many new features for the Galaxy A52 4G running NcX ROM (S21 FE port)!
 support=
