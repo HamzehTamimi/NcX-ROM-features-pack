@@ -12,7 +12,6 @@ Features included in the module:
 - Bixby Touch (CHC firmware feature)
 - Fresh ROM features (full credit for the amazing devs of the ROM)
 - Daily Board (Galaxy Tab features)
-- Fully working Air Command (use this app to launch it: https://drive.google.com/file/d/1RZEGbGFZmRkgCfsd5t6TaGXbmE8_wnl6/view?usp=share_link)
 - Z Fold series taskbar
 - Content suggestion service (Secure Folder feature from INS firmware)
 - Some camera feature (more to come)
