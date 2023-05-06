@@ -19,7 +19,7 @@ Features included in the module:
 
 There are also many small features added that I don't remember too (may add them in the feature list later)... 
 
-*To fix theme problems with Samsung Keyboard when using color pallete, do this workaround found by @Tomek (thanks to him), by going to Samsung Keyboard settings then theme, and switching it from color pallete to dark or light depending on your theme, (you will lose dynamic theming on the keyboard but this is caused by an overlay responsible for the Fresh rom settings to fully work)* 
+To fix theme problems with Samsung Keyboard when using color pallete, do this workaround found by @Tomek (thanks to him), by going to Samsung Keyboard settings then theme, and switching it from color pallete to dark or light depending on your theme, (you will lose dynamic theming on the keyboard but this is caused by an overlay responsible for the Fresh rom settings to fully work)
 
 *I own the A52 4G, so I will do tests on it, and you can test and give feedback for other devices (and of A52 4G course), on the XDA threads (when I set them up for each device) or GitHub issues , the focus will be on A52 4G but the experience should be same on all devices and all will get updates on the same time expect if there is a device specific fix update.*
 
