@@ -20,7 +20,7 @@ Features included in the module:
 
 There are also many small features added that I don't remember too (may add them in the feature list later)... 
 
-*I own the A52 4G, so I will do tests on it, and you can test and give feedback for other devices (and of A52 4G course), on the XDA thread (when I set it up), the focus will be on A52 4G but the experience should be same on all devices and all will get updates on the same time expect if there is a device specific fix update.*
+*I own the A52 4G, so I will do tests on it, and you can test and give feedback for other devices (and of A52 4G course), on the XDA threads (when I set them up for each device) or GitHub issues , the focus will be on A52 4G but the experience should be same on all devices and all will get updates on the same time expect if there is a device specific fix update.*
 
     Please use this only on NcX ROM for your device
 
