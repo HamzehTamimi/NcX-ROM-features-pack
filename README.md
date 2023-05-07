@@ -2,6 +2,8 @@
 
 **This is a Magisk module that adds so many new features for the NcX ROM (S21 FE port)!**
 
+You may use it on stock rom too but I can't guarantee it will 100% work (will work but there might be bugs)
+
 This module is made for device supported by NcX ROM:
  - A52 4G
  - A52s 5G
