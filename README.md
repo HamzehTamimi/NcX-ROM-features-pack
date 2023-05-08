@@ -12,14 +12,14 @@ This module is made for device supported by NcX ROM:
 
 Features included in the module:
 - Bixby Touch (CHC firmware feature)
-- Fresh ROM features (full credit for the amazing devs of the ROM)
+- Fresh ROM features (full credit for the amazing devs of the ROM @TenSeventy7/@Yanndroid/@BlackMesa123 on XDA)
 - Daily Board (Galaxy Tab features)
 - Z Fold series taskbar
 - Content suggestion service (Secure Folder feature from INS firmware)
 - Some camera feature (more to come)
 - Samsung My Files shortcut in settings
 - China Smart Manager
-- Air Command (use the icon in app drawer to launch then you use the floating icon)
+- Air Command (use the icon in app drawer to launch then you use the floating icon made by @ananjaser1211/@BlackMesa123 on XDA)
 - WiFi security detection
 
 There are also many small features added that I don't remember too (may add them in the feature list later)... 
