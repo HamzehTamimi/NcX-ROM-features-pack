@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The Fresh Project
+     Copyright (C) 2021-2022 John Vincent (TenSeventy7)
+
+     This program is free software: you can redistribute it and/or modify
+     it under the terms of the GNU General Public License as published by
+     the Free Software Foundation, either version 3 of the License, or
+     (at your option) any later version.
+
+     This program is distributed in the hope that it will be useful,
+     but WITHOUT ANY WARRANTY; without even the implied warranty of
+     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+     GNU General Public License for more details.
+
+     You should have received a copy of the GNU General Public License
+     along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<!--
+This XML file declares which system apps should be exempted from the hidden API blacklisting, i.e.
+which apps should be allowed to access the entire private API.
+
+Only apps NOT signed with the platform cert need to be included, as apps signed with the platform
+cert are exempted by default.
+-->
+<config>
+     <!-- Add FreshServices to doze whitelist -->
+     <allow-in-power-save package="cf.tenseventyseven.fresh" />
+     <allow-in-power-save-except-idle package="cf.tenseventyseven.fresh" />
+
+	<!-- Allow hidden API access for Fresh release apps -->
+     <hidden-api-whitelisted-app package="cf.tenseventyseven.fresh" />
+	<hidden-api-whitelisted-app package="com.wssyncmldm" />
+</config>
